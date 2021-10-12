@@ -1,0 +1,29 @@
+body {
+  background-color: antiquewhite;
+  /* align-items: center; */
+  /* margin: 50%; */
+  /* text-align: center; */
+}
+.firstRow {
+  align-items: center;
+  text-align: center;
+  /* padding: 450px; */
+  text-transform: capitalize;
+}
+
+tr {
+  text-align: left;
+  padding: 230px;
+}
+button {
+  color: black;
+  background-color: cadetblue;
+  border-radius: 23%;
+  height: 32px;
+  align-items: center;
+  margin: auto;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+}
